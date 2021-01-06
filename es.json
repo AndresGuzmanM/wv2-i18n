@@ -443,7 +443,7 @@
 			"key": "intro",
 			"label": "Elija su ramo de flores",
 			"title": "Su elección",
-			"subtitle": "Todos los ramos de flores podrán ser envíados al lugar del funeral de su elección.",
+			"subtitle": "Todos los ramos de flores podrán ser envíados al lugar del funeral de su elección. La entrega tarda un mínimo de 2 horas",
 			"cta": "Siguiente"
 		}, {
 			"key": "cart",
@@ -455,7 +455,7 @@
 			"key": "shipping",
 			"label": "Envío",
 			"title": "Escoja el lugar de entrega",
-			"subtitle": "Por favor seleccione el lugar de entrega de su elección. Nuestro partner acuerda entregar antes del tiempo en que finalizará la ceremonia.",
+			"subtitle": "Por favor seleccione el lugar de entrega de su elección. El lapso de entrega es de mínimo 2 horas ",
 			"cta": "Siguiente"
 		}, {
 			"key": "payment",
