@@ -80,7 +80,7 @@
 
 	"skeleton": {
 		"places": "La información del funeral aparecerá aquí",
-		"broadcast": "Broadcast informations",
+		"broadcast": "Información de la transmisión",
 		"memories": "Aquí es donde se mostrarán los mensajes en homenaje a {{{capitalize firstname}}}",
 		"ceremony": "Aquí es donde se mostrarán los mensajes en homenaje a {{{capitalize firstname}}}"
 	},
@@ -241,7 +241,7 @@
 		"time": "h:mmA",
 		"picker": {
 			"format": "DD/MM/YYYY",
-			"invalid": "Invalid Date Format",
+			"invalid": "Esta fecha no es posible",
 			"max": "Date should not be after maximal date",
 			"min": "Date should not be before minimal date"
 		}
@@ -443,7 +443,7 @@
 			"key": "intro",
 			"label": "Elija su ramo de flores",
 			"title": "Su elección",
-			"subtitle": "Todos los ramos de flores podrán ser envíados al lugar del funeral de su elección.",
+			"subtitle": "Todos los ramos de flores podrán ser envíados al lugar del funeral de su elección. Tarda un mínimo de 2 horas desde el pedido",
 			"cta": "Siguiente"
 		}, {
 			"key": "cart",
@@ -455,7 +455,7 @@
 			"key": "shipping",
 			"label": "Envío",
 			"title": "Escoja el lugar de entrega",
-			"subtitle": "Por favor seleccione el lugar de entrega de su elección. Nuestro partner acuerda entregar antes del tiempo en que finalizará la ceremonia.",
+			"subtitle": "Por favor seleccione el lugar de entrega de su elección. Nuestro socio acuerda entregar el pedido con un mínimo de 2 horas después del pedido",
 			"cta": "Siguiente"
 		}, {
 			"key": "payment",
