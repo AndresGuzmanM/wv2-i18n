@@ -460,7 +460,7 @@
 		}, {
 			"key": "payment",
 			"label": "Pago",
-			"title": "Finalizar su orden",
+			"title": "Finalizar la orden",
 			"subtitle": "Llene su información bancaria en el espacio seguro a continuación.",
 			"cta": "Pagar {{total}}"
 		}, {
