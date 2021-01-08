@@ -30,7 +30,7 @@
 		"shipping": "Envío",
 		"dob": "Fecha de nacimiento",
 		"dod": "Fecha de defunción",
-		"ssn": "N° de seguro social",
+		"ssn": "N° del seguro social",
 		"routing": "N° Routing",
 		"iban": "Codigo Swift",
 		"choose": "Elegir",
