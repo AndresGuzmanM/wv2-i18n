@@ -155,7 +155,7 @@
 			"btns": ["Si", "No"]
 		},
 		"delete-page": {
-			"message": "¿Realmente quiere eliminar permanentemente este espacio?",
+			"message": "¿Realmente quiere eliminar permanentemente el espacio?",
 			"success": "¡Espacio eliminado!",
 			"btns": ["Si", "No"]
 		},
