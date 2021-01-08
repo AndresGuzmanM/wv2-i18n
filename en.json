@@ -455,7 +455,7 @@
 			"key": "shipping",
 			"label": "Shipping",
 			"title": "Choose the place of delivery",
-			"subtitle": "Please select the delivery location of your choice. Our partner agrees to deliver before the time of the ceremony.",
+			"subtitle": "Please select the delivery location of your choice. Our partner agrees to deliver in a minimum of 2hours.",
 			"cta": "Next"
 		}, {
 			"key": "payment",
